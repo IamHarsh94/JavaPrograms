@@ -1,0 +1,9 @@
+{
+	"StockDetails": [
+		{
+			"StockName": "ram",
+			"NoOfshare": 5,
+			"PriceOfEachShare": 25
+		}
+	]
+}

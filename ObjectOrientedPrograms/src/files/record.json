@@ -1,0 +1,12 @@
+{
+	"StockDetails": [
+		{
+			"StockName": "ram",
+			"Transaction Status": "sell",
+			"Stock Simbol": "\/",
+			"NoOfshare": 200,
+			"Date and Time": null,
+			"PriceOfEachShare": 560
+		}
+	]
+}

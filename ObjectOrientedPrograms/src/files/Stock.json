@@ -1,0 +1,24 @@
+{
+	"Stock": [
+		{
+			"StockName": "ram",
+			"NoOfshare": 200,
+			"PriceOfEachShare": 560
+		},
+		{
+			"StockName": "harsh",
+			"NoOfshare": 2,
+			"PriceOfEachShare": 200
+		},
+		{
+			"StockName": "shubh",
+			"NoOfshare": 3,
+			"PriceOfEachShare": 251
+		},
+		{
+			"StockName": "snehal",
+			"NoOfshare": 2,
+			"PriceOfEachShare": 215
+		}
+	]
+}

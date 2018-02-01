@@ -1,0 +1,40 @@
+{
+	"AddressBook": [
+		{
+			"Zip": "1253",
+			"Address": "amalner",
+			"PhoneNum": "854215",
+			"FirstName": "rahul",
+			"State": "maharashtra",
+			"LastName": "mahajan",
+			"City": "dhule"
+		},
+		{
+			"Zip": "21320",
+			"Address": "yawal",
+			"PhoneNum": "54582315",
+			"FirstName": "abhilash",
+			"State": "maharashtra",
+			"LastName": "jade",
+			"City": "jalgoan"
+		},
+		{
+			"Zip": "425301",
+			"Address": "ganesh nagar",
+			"PhoneNum": "8625853250",
+			"FirstName": "harshal",
+			"State": "maharashtra",
+			"LastName": "patil",
+			"City": "jalgoan"
+		},
+		{
+			"Zip": "425302",
+			"Address": "yawal",
+			"PhoneNum": "8625853250",
+			"FirstName": "shubhangi",
+			"State": "maharashtra",
+			"LastName": "fegade",
+			"City": "jalgoan"
+		}
+	]
+}

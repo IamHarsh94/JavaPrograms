@@ -1,0 +1,16 @@
+{
+	"Appointment": [
+		{
+			"patientName": "nikhil",
+			"visitTime": "12pm",
+			"patientAge": "28",
+			"DocName": "harshal"
+		},
+		{
+			"patientName": "saurabh",
+			"visitTime": "11am",
+			"patientAge": "24",
+			"DocName": "shubhangi"
+		}
+	]
+}
