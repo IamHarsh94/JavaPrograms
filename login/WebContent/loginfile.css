@@ -1,0 +1,34 @@
+.divStyle {
+    background: whitesmoke;
+    border-style: ridge;
+ 
+	    height: 490px;
+	    text-align: center;
+    	margin: auto;
+}
+.rowStyle{
+    margin-left: 360px;
+    margin-right: 360px;
+    margin-top: 102px;
+    height: 295px;
+
+}
+.nameRow{
+	margin-left: 150px;
+    margin-right: 150px;
+}
+.form-control {
+  position: relative;
+  font-size: 16px;
+  height: auto;
+  padding: 10px;
+}
+.textFont{
+	font-size: 23px;
+    font-style: initial;
+}
+.submitBtn{
+	  background: wheat;
+	    height: 30px;
+    width: 96px;
+}
